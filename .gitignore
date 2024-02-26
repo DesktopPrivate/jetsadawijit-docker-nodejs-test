@@ -1,0 +1,6 @@
+# VSCODE
+.vscode/
+
+# nodejs
+node_modules/
+package-lock.yml
