@@ -4,3 +4,12 @@
     <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
   </a>
 </div>
+
+Run
+```
+// Build image
+docker build -t {imageName} .
+
+// Activate
+docker run -d -p 3000:3000 {imageName}
+```
