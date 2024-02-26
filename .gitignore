@@ -3,4 +3,4 @@
 
 # nodejs
 node_modules/
-package-lock.yml
+package-lock.json
