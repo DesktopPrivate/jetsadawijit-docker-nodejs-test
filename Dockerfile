@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /usr/src/app
+WORKDIR /usr/src/index
 
 # Install app dependencies
 COPY package*.json ./
